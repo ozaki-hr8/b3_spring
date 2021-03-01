@@ -14,3 +14,4 @@ for i in range(5):
     print("OK")
     print("No")
     print("ho")
+    print("lo")
