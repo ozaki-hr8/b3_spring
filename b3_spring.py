@@ -10,3 +10,5 @@ for i in range(5):
     print("hello")
     print("end")
     print(i*2)
+    time.sleep(0)
+    
