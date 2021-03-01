@@ -13,3 +13,4 @@ for i in range(5):
     time.sleep(0)
     print("OK")
     print("No")
+    print("ho")
