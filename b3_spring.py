@@ -9,3 +9,4 @@ for i in range(5):
     print(i)
     print("hello")
     print("end")
+    print(i*2)
