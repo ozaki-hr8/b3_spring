@@ -16,3 +16,4 @@ for i in range(5):
     print("ho")
     print("lo")
     print("ko")
+    print("jo")
